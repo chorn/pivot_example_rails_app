@@ -1,0 +1,17 @@
+/log/*
+!/log/.keep
+/tmp
+*.rbc
+capybara-*.html
+.rspec
+/log
+/public/system
+/coverage/
+/spec/tmp
+**.orig
+rerun.txt
+pickle-email-*.html
+/.bundle
+/vendor/bundle
+.rvmrc
+.powenv
